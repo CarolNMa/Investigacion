@@ -1,0 +1,141 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: build/main_acm.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+The style file: ACM-Reference-Format.bst
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Database file #1: bibliography/references.bib
+Warning--I didn't find a database entry for "analisis_lenguajes"
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Warning--no key, author, or editor in gestion_talento_digital
+Warning--no author, editor, organization, or key in gestion_talento_digital
+Warning--to sort, need author, editor, or key in gestion_talento_digital
+Warning--no key, author, or editor in analisis_frameworks_frontend
+Warning--no author, editor, organization, or key in analisis_frameworks_frontend
+Warning--to sort, need author, editor, or key in analisis_frameworks_frontend
+Warning--no key, author, or editor in estudio_aplicaciones_java
+Warning--no author, editor, organization, or key in estudio_aplicaciones_java
+Warning--to sort, need author, editor, or key in estudio_aplicaciones_java
+Warning--no key, author, or editor in optimizacion_bootstrap
+Warning--no author, editor, organization, or key in optimizacion_bootstrap
+Warning--to sort, need author, editor, or key in optimizacion_bootstrap
+Warning--no key, author, or editor in analisis_google_charts
+Warning--no author, editor, organization, or key in analisis_google_charts
+Warning--to sort, need author, editor, or key in analisis_google_charts
+Warning--no key, author, or editor in implementacion_microservicios
+Warning--no author, editor, organization, or key in implementacion_microservicios
+Warning--to sort, need author, editor, or key in implementacion_microservicios
+Warning--no key, author, or editor in analisis_comparativo_java
+Warning--no author, editor, organization, or key in analisis_comparativo_java
+Warning--to sort, need author, editor, or key in analisis_comparativo_java
+Warning--no key, author, or editor in react_native_distancias
+Warning--no author, editor, organization, or key in react_native_distancias
+Warning--to sort, need author, editor, or key in react_native_distancias
+Warning--no key, author, or editor in laboratorio_estadistica_react
+Warning--no author, editor, organization, or key in laboratorio_estadistica_react
+Warning--to sort, need author, editor, or key in laboratorio_estadistica_react
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Warning--no key, author, or editor in analisis_comparativo_java
+Warning--no key, author, or editor in analisis_comparativo_java
+Warning--no key, author, or editor in analisis_frameworks_frontend
+Warning--no key, author, or editor in analisis_google_charts
+Warning--no key, author, or editor in estudio_aplicaciones_java
+Warning--no key, author, or editor in estudio_aplicaciones_java
+Warning--no key, author, or editor in gestion_talento_digital
+Warning--no key, author, or editor in gestion_talento_digital
+Warning--no key, author, or editor in implementacion_microservicios
+Warning--no key, author, or editor in implementacion_microservicios
+Warning--no key, author, or editor in laboratorio_estadistica_react
+Warning--no key, author, or editor in laboratorio_estadistica_react
+Warning--no key, author, or editor in optimizacion_bootstrap
+Warning--no key, author, or editor in optimizacion_bootstrap
+Warning--no key, author, or editor in react_native_distancias
+Warning--no key, author, or editor in react_native_distancias
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Warning--no key, author, or editor in analisis_comparativo_java
+Warning--neither author and editor supplied for analisis_comparativo_java
+Warning--no number and no volume in analisis_comparativo_java
+Warning--page numbers missing in both pages and numpages fields in analisis_comparativo_java
+Warning--no key, author, or editor in analisis_frameworks_frontend
+Warning--neither author and editor supplied for analisis_frameworks_frontend
+Warning--no journal in analisis_frameworks_frontend
+Warning--no number and no volume in analisis_frameworks_frontend
+Warning--page numbers missing in both pages and numpages fields in analisis_frameworks_frontend
+Warning--no key, author, or editor in analisis_google_charts
+Warning--neither author and editor supplied for analisis_google_charts
+Warning--no number and no volume in analisis_google_charts
+Warning--page numbers missing in both pages and numpages fields in analisis_google_charts
+Warning--no key, author, or editor in estudio_aplicaciones_java
+Warning--neither author and editor supplied for estudio_aplicaciones_java
+Warning--no journal in estudio_aplicaciones_java
+Warning--no number and no volume in estudio_aplicaciones_java
+Warning--page numbers missing in both pages and numpages fields in estudio_aplicaciones_java
+Warning--no key, author, or editor in gestion_talento_digital
+Warning--neither author and editor supplied for gestion_talento_digital
+Warning--no number and no volume in gestion_talento_digital
+Warning--page numbers missing in both pages and numpages fields in gestion_talento_digital
+Warning--no key, author, or editor in implementacion_microservicios
+Warning--neither author and editor supplied for implementacion_microservicios
+Warning--no journal in implementacion_microservicios
+Warning--no number and no volume in implementacion_microservicios
+Warning--page numbers missing in both pages and numpages fields in implementacion_microservicios
+Warning--no key, author, or editor in laboratorio_estadistica_react
+Warning--neither author and editor supplied for laboratorio_estadistica_react
+Warning--no number and no volume in laboratorio_estadistica_react
+Warning--page numbers missing in both pages and numpages fields in laboratorio_estadistica_react
+Warning--no key, author, or editor in optimizacion_bootstrap
+Warning--neither author and editor supplied for optimizacion_bootstrap
+Warning--no number and no volume in optimizacion_bootstrap
+Warning--page numbers missing in both pages and numpages fields in optimizacion_bootstrap
+Warning--no key, author, or editor in react_native_distancias
+Warning--neither author and editor supplied for react_native_distancias
+Warning--no number and no volume in react_native_distancias
+Warning--page numbers missing in both pages and numpages fields in react_native_distancias
+You've used 9 entries,
+            6273 wiz_defined-function locations,
+            1551 strings with 20144 characters,
+and the built_in function-call counts, 7584 in all, are:
+= -- 987
+> -- 0
+< -- 0
++ -- 11
+- -- 0
+* -- 473
+:= -- 362
+add.period$ -- 36
+call.type$ -- 9
+change.case$ -- 36
+chr.to.int$ -- 7
+cite$ -- 125
+duplicate$ -- 832
+empty$ -- 652
+format.name$ -- 0
+if$ -- 2141
+int.to.chr$ -- 4
+int.to.str$ -- 1
+missing$ -- 36
+newline$ -- 147
+num.names$ -- 0
+pop$ -- 518
+preamble$ -- 1
+purify$ -- 104
+quote$ -- 0
+skip$ -- 201
+stack$ -- 0
+substring$ -- 421
+swap$ -- 33
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 138
+warning$ -- 82
+while$ -- 0
+width$ -- 0
+write$ -- 227
+(There were 83 warnings)

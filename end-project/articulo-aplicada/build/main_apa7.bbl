@@ -1,0 +1,310 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{analisis_comparativo_java}{article}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ING}
+      \field{title}{ANÁLISIS COMPARATIVO DE FRAMEWORKS PARA EL DESARROLLO DE APLICACIONES WEB EN JAVA}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://revistas.uss.edu.pe/index.php/ING/article/view/101/100
+      \endverb
+      \verb{url}
+      \verb https://revistas.uss.edu.pe/index.php/ING/article/view/101/100
+      \endverb
+    \endentry
+    \entry{analisis_frameworks_frontend}{article}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Análisis de Frameworks Frontend para Aplicar UX/IU en el Desarrollo Web: Una Revisión Sistemática}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://dialnet.unirioja.es/servlet/articulo?codigo=9589652
+      \endverb
+      \verb{url}
+      \verb https://dialnet.unirioja.es/servlet/articulo?codigo=9589652
+      \endverb
+    \endentry
+    \entry{analisis_google_charts}{article}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{RCMG}
+      \field{title}{Análisis de la conexión de Google charts a bases de datos y otras fuentes para visualización dinámica de datos}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://revista.gnerando.org/revista/index.php/RCMG/article/view/690/724
+      \endverb
+      \verb{url}
+      \verb https://revista.gnerando.org/revista/index.php/RCMG/article/view/690/724
+      \endverb
+    \endentry
+    \entry{estudio_aplicaciones_java}{article}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{ESTUDIO DE LAS APLICACIONES WEB EMPRESARIALES, DESARROLLADAS EN EL LENGUAJE DE PROGRAMACIÓN JAVA, EN LOS FRAMEWORKS HIBERNATE Y SPRING}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://dspace.utb.edu.ec/bitstream/handle/49000/9528/E-UTB-FAFI-SIST-000211.pdf?sequence=1&isAllowed=y
+      \endverb
+      \verb{url}
+      \verb https://dspace.utb.edu.ec/bitstream/handle/49000/9528/E-UTB-FAFI-SIST-000211.pdf?sequence=1&isAllowed=y
+      \endverb
+    \endentry
+    \entry{gestion_talento_digital}{article}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Latitude}
+      \field{title}{GESTIÓN DEL TALENTO EN LA ERA DIGITAL: CÓMO ATRAER, RETENER Y POTENCIAR PROFESIONALES EN LA EDUCACIÓN DEL SIGLO XXI}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://revistas.qlu.ac.pa/index.php/latitude/article/view/228/168
+      \endverb
+      \verb{url}
+      \verb https://revistas.qlu.ac.pa/index.php/latitude/article/view/228/168
+      \endverb
+    \endentry
+    \entry{implementacion_microservicios}{article}{}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Implementación y estandarización en microservicios para altos consumos de lectura en sistemas transaccionales}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://bibliotecadigital.udea.edu.co/server/api/core/bitstreams/abaeb5aa-1785-4304-85e2-98229d666c78/content
+      \endverb
+      \verb{url}
+      \verb https://bibliotecadigital.udea.edu.co/server/api/core/bitstreams/abaeb5aa-1785-4304-85e2-98229d666c78/content
+      \endverb
+    \endentry
+    \entry{laboratorio_estadistica_react}{article}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{TERC}
+      \field{title}{Laboratorio Basado en Web de Estadísticas y Probabilidad Multimedia con Spring Boot y React.js de apoyo a la enseñanza}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://terc.mx/index.php/terc/article/view/263/239
+      \endverb
+      \verb{url}
+      \verb https://terc.mx/index.php/terc/article/view/263/239
+      \endverb
+    \endentry
+    \entry{optimizacion_bootstrap}{article}{}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IPSUMTEC}
+      \field{title}{Optimización web móvil: El poder de bootstrap en el desarrollo adaptativo}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://revistas.milpaalta.tecnm.mx/index.php/IPSUMTEC/article/view/337/619
+      \endverb
+      \verb{url}
+      \verb https://revistas.milpaalta.tecnm.mx/index.php/IPSUMTEC/article/view/337/619
+      \endverb
+    \endentry
+    \entry{react_native_distancias}{article}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista UNAM}
+      \field{title}{React Native: acortando las distancias entre desarrollo y diseño móvil multiplataforma}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.revista.unam.mx/wp-content/uploads/v20_n5_a5_React-Native-acortando-las-distancias-entre-desarrollo-y-dise%C3%B1o-m%C3%B3vil-multiplataforma.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.revista.unam.mx/wp-content/uploads/v20_n5_a5_React-Native-acortando-las-distancias-entre-desarrollo-y-dise%C3%B1o-m%C3%B3vil-multiplataforma.pdf
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{analisis_comparativo_java}{article}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ING}
+      \field{title}{ANÁLISIS COMPARATIVO DE FRAMEWORKS PARA EL DESARROLLO DE APLICACIONES WEB EN JAVA}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://revistas.uss.edu.pe/index.php/ING/article/view/101/100
+      \endverb
+      \verb{url}
+      \verb https://revistas.uss.edu.pe/index.php/ING/article/view/101/100
+      \endverb
+    \endentry
+    \entry{analisis_frameworks_frontend}{article}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Análisis de Frameworks Frontend para Aplicar UX/IU en el Desarrollo Web: Una Revisión Sistemática}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://dialnet.unirioja.es/servlet/articulo?codigo=9589652
+      \endverb
+      \verb{url}
+      \verb https://dialnet.unirioja.es/servlet/articulo?codigo=9589652
+      \endverb
+    \endentry
+    \entry{analisis_google_charts}{article}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{RCMG}
+      \field{title}{Análisis de la conexión de Google charts a bases de datos y otras fuentes para visualización dinámica de datos}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://revista.gnerando.org/revista/index.php/RCMG/article/view/690/724
+      \endverb
+      \verb{url}
+      \verb https://revista.gnerando.org/revista/index.php/RCMG/article/view/690/724
+      \endverb
+    \endentry
+    \entry{estudio_aplicaciones_java}{article}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{ESTUDIO DE LAS APLICACIONES WEB EMPRESARIALES, DESARROLLADAS EN EL LENGUAJE DE PROGRAMACIÓN JAVA, EN LOS FRAMEWORKS HIBERNATE Y SPRING}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://dspace.utb.edu.ec/bitstream/handle/49000/9528/E-UTB-FAFI-SIST-000211.pdf?sequence=1&isAllowed=y
+      \endverb
+      \verb{url}
+      \verb https://dspace.utb.edu.ec/bitstream/handle/49000/9528/E-UTB-FAFI-SIST-000211.pdf?sequence=1&isAllowed=y
+      \endverb
+    \endentry
+    \entry{gestion_talento_digital}{article}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Latitude}
+      \field{title}{GESTIÓN DEL TALENTO EN LA ERA DIGITAL: CÓMO ATRAER, RETENER Y POTENCIAR PROFESIONALES EN LA EDUCACIÓN DEL SIGLO XXI}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://revistas.qlu.ac.pa/index.php/latitude/article/view/228/168
+      \endverb
+      \verb{url}
+      \verb https://revistas.qlu.ac.pa/index.php/latitude/article/view/228/168
+      \endverb
+    \endentry
+    \entry{implementacion_microservicios}{article}{}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Implementación y estandarización en microservicios para altos consumos de lectura en sistemas transaccionales}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://bibliotecadigital.udea.edu.co/server/api/core/bitstreams/abaeb5aa-1785-4304-85e2-98229d666c78/content
+      \endverb
+      \verb{url}
+      \verb https://bibliotecadigital.udea.edu.co/server/api/core/bitstreams/abaeb5aa-1785-4304-85e2-98229d666c78/content
+      \endverb
+    \endentry
+    \entry{laboratorio_estadistica_react}{article}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{TERC}
+      \field{title}{Laboratorio Basado en Web de Estadísticas y Probabilidad Multimedia con Spring Boot y React.js de apoyo a la enseñanza}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://terc.mx/index.php/terc/article/view/263/239
+      \endverb
+      \verb{url}
+      \verb https://terc.mx/index.php/terc/article/view/263/239
+      \endverb
+    \endentry
+    \entry{optimizacion_bootstrap}{article}{}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IPSUMTEC}
+      \field{title}{Optimización web móvil: El poder de bootstrap en el desarrollo adaptativo}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://revistas.milpaalta.tecnm.mx/index.php/IPSUMTEC/article/view/337/619
+      \endverb
+      \verb{url}
+      \verb https://revistas.milpaalta.tecnm.mx/index.php/IPSUMTEC/article/view/337/619
+      \endverb
+    \endentry
+    \entry{react_native_distancias}{article}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista UNAM}
+      \field{title}{React Native: acortando las distancias entre desarrollo y diseño móvil multiplataforma}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.revista.unam.mx/wp-content/uploads/v20_n5_a5_React-Native-acortando-las-distancias-entre-desarrollo-y-dise%C3%B1o-m%C3%B3vil-multiplataforma.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.revista.unam.mx/wp-content/uploads/v20_n5_a5_React-Native-acortando-las-distancias-entre-desarrollo-y-dise%C3%B1o-m%C3%B3vil-multiplataforma.pdf
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{analisis_lenguajes}
+\endrefsection
+\endinput
+

@@ -1,0 +1,157 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{9}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{} and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showURL}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showURL #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[ana(2025a)]%
+        {analisis_comparativo_java}
+ \bibinfo{year}{2025}\natexlab{a}.
+\newblock \showarticletitle{ANÁLISIS COMPARATIVO DE FRAMEWORKS PARA EL
+  DESARROLLO DE APLICACIONES WEB EN JAVA}.
+\newblock \bibinfo{journal}{\emph{ING}} (\bibinfo{year}{2025}).
+\newblock
+\urldef\tempurl%
+\url{https://revistas.uss.edu.pe/index.php/ING/article/view/101/100}
+\showURL{%
+\tempurl}
+
+
+\bibitem[ana(2025b)]%
+        {analisis_frameworks_frontend}
+ \bibinfo{year}{2025}\natexlab{b}.
+\newblock \showarticletitle{Análisis de Frameworks Frontend para Aplicar UX/IU
+  en el Desarrollo Web: Una Revisión Sistemática}.
+\newblock  (\bibinfo{year}{2025}).
+\newblock
+\urldef\tempurl%
+\url{https://dialnet.unirioja.es/servlet/articulo?codigo=9589652}
+\showURL{%
+\tempurl}
+
+
+\bibitem[ana(2025c)]%
+        {analisis_google_charts}
+ \bibinfo{year}{2025}\natexlab{c}.
+\newblock \showarticletitle{Análisis de la conexión de Google charts a bases
+  de datos y otras fuentes para visualización dinámica de datos}.
+\newblock \bibinfo{journal}{\emph{RCMG}} (\bibinfo{year}{2025}).
+\newblock
+\urldef\tempurl%
+\url{https://revista.gnerando.org/revista/index.php/RCMG/article/view/690/724}
+\showURL{%
+\tempurl}
+
+
+\bibitem[est(2025)]%
+        {estudio_aplicaciones_java}
+ \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{ESTUDIO DE LAS APLICACIONES WEB EMPRESARIALES,
+  DESARROLLADAS EN EL LENGUAJE DE PROGRAMACIÓN JAVA, EN LOS FRAMEWORKS
+  HIBERNATE Y SPRING}.
+\newblock  (\bibinfo{year}{2025}).
+\newblock
+\urldef\tempurl%
+\url{https://dspace.utb.edu.ec/bitstream/handle/49000/9528/E-UTB-FAFI-SIST-000211.pdf?sequence=1&isAllowed=y}
+\showURL{%
+\tempurl}
+
+
+\bibitem[ges(2025)]%
+        {gestion_talento_digital}
+ \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{GESTIÓN DEL TALENTO EN LA ERA DIGITAL: CÓMO
+  ATRAER, RETENER Y POTENCIAR PROFESIONALES EN LA EDUCACIÓN DEL SIGLO XXI}.
+\newblock \bibinfo{journal}{\emph{Latitude}} (\bibinfo{year}{2025}).
+\newblock
+\urldef\tempurl%
+\url{https://revistas.qlu.ac.pa/index.php/latitude/article/view/228/168}
+\showURL{%
+\tempurl}
+
+
+\bibitem[imp(2025)]%
+        {implementacion_microservicios}
+ \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Implementación y estandarización en
+  microservicios para altos consumos de lectura en sistemas transaccionales}.
+\newblock  (\bibinfo{year}{2025}).
+\newblock
+\urldef\tempurl%
+\url{https://bibliotecadigital.udea.edu.co/server/api/core/bitstreams/abaeb5aa-1785-4304-85e2-98229d666c78/content}
+\showURL{%
+\tempurl}
+
+
+\bibitem[lab(2025)]%
+        {laboratorio_estadistica_react}
+ \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Laboratorio Basado en Web de Estadísticas y
+  Probabilidad Multimedia con Spring Boot y React.js de apoyo a la enseñanza}.
+\newblock \bibinfo{journal}{\emph{TERC}} (\bibinfo{year}{2025}).
+\newblock
+\urldef\tempurl%
+\url{https://terc.mx/index.php/terc/article/view/263/239}
+\showURL{%
+\tempurl}
+
+
+\bibitem[opt(2025)]%
+        {optimizacion_bootstrap}
+ \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Optimización web móvil: El poder de bootstrap en
+  el desarrollo adaptativo}.
+\newblock \bibinfo{journal}{\emph{IPSUMTEC}} (\bibinfo{year}{2025}).
+\newblock
+\urldef\tempurl%
+\url{https://revistas.milpaalta.tecnm.mx/index.php/IPSUMTEC/article/view/337/619}
+\showURL{%
+\tempurl}
+
+
+\bibitem[rea(2025)]%
+        {react_native_distancias}
+ \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{React Native: acortando las distancias entre
+  desarrollo y diseño móvil multiplataforma}.
+\newblock \bibinfo{journal}{\emph{Revista UNAM}} (\bibinfo{year}{2025}).
+\newblock
+\urldef\tempurl%
+\url{https://www.revista.unam.mx/wp-content/uploads/v20_n5_a5_React-Native-acortando-las-distancias-entre-desarrollo-y-dise%C3%B1o-m%C3%B3vil-multiplataforma.pdf}
+\showURL{%
+\tempurl}
+
+
+\end{thebibliography}

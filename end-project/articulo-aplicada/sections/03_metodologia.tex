@@ -1,0 +1,16 @@
+\section{Métodos}
+
+\subsection{Diseño metodológico}
+Se utilizó un proceso iterativo-incremental con hitos funcionales. Cada sprint definió historias de usuario, criterios de aceptación y casos de prueba. El diseño se apoyó en UML (casos de uso, secuencia) y un MER/ER que estableció entidades, relaciones y restricciones \cite{analisis_google_charts}.
+
+\subsection{Arquitectura y seguridad}
+El backend implementó API REST usando Spring Boot controller–service–repository, DTOs, Spring Security con JWT. Las políticas CORS, el cifrado de contraseñas y la auditoría de cambios preservan confidencialidad e integridad \cite{estudio_aplicaciones_java}.
+
+\subsection{Frontend}
+React organiza la UI en componentes reutilizables y está formado por formularios controlados, validaciones en cliente y navegación por rol \cite{analisis_frameworks_frontend}\cite{optimizacion_bootstrap}.
+
+\subsection{Persistencia de datos}
+Se creó el esquema relacional en MySQL para usuarios, roles, empleados, contratos, horarios, asistencias, solicitudes (permisos/incapacidades), capacitaciones/inducciones, y se definió la estrategia de índices y claves foráneas según patrones de consultas \cite{analisis_google_charts}.
+
+\subsection{Pruebas y documentación}
+Se documentaron endpoints mediante Swagger. Como referencia académica, se consultaron estudios de aulas/laboratorios con React/Spring Boot, y experiencias de integración de gráficos con bases relacionales \cite{laboratorio_estadistica_react}\cite{analisis_google_charts}.

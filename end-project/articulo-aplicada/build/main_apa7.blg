@@ -1,0 +1,19 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[1] Config.pm:310> INFO - Logfile is 'build/main_apa7.blg'
+[286] biber-MSWIN64:340> INFO - === 
+[359] Biber.pm:419> INFO - Reading 'build/main_apa7.bcf'
+[605] Biber.pm:979> INFO - Found 10 citekeys in bib section 0
+[641] Biber.pm:4419> INFO - Processing section 0
+[659] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography/references.bib' for section 0
+[780] bibtex.pm:1713> INFO - LaTeX decoding ...
+[803] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography/references.bib'
+[883] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[883] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[883] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[917] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[918] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[918] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[937] bbl.pm:660> INFO - Writing 'build/main_apa7.bbl' with encoding 'UTF-8'
+[945] bbl.pm:763> INFO - Output to build/main_apa7.bbl
+[945] Biber.pm:131> WARN - I didn't find a database entry for 'analisis_lenguajes' (section 0)
+[946] Biber.pm:133> INFO - WARNINGS: 1
